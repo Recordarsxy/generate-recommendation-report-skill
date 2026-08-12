@@ -2,6 +2,8 @@
 
 这是 `generate-recommendation-report` 的当前可用版本快照，冻结日期为 2026-08-12。
 
+精确恢复请使用 Git 标签 `v1.0.1-byte-exact-baseline`；该版本关闭了 Git 的自动换行转换，归档文件与本机 Skill 保持逐字节一致。
+
 ## 用途
 
 - 为后续网站化开发保留一个可以随时恢复的稳定基线。
