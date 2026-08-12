@@ -1,0 +1,4 @@
+interface:
+  display_name: "推荐报告生成"
+  short_description: "把候选人简历 PDF 按固定母版生成并完成原文与格式校验"
+  default_prompt: "使用 $generate-recommendation-report，根据附件简历生成候选人推荐报告。"
